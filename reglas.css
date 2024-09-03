@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    font-family: fantasy;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.caja{
+    width: 200px ;
+    height: 100px;
+    background-color: green;
+    padding: 1%;
+    padding-right: -10%;
+    position: absolute;
+    left: 44%;
+    top: 50%;
+
+}
+
+a{
+    color: azure;
+
+}
+
+u{
+    text-align: center;
+}
